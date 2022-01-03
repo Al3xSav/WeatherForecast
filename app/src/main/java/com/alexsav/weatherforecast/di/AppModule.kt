@@ -1,3 +1,3 @@
 package com.alexsav.weatherforecast.di
 
-class AppModule {}
+class AppModule
